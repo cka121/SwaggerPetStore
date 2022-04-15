@@ -1,0 +1,1 @@
+export const  MAIN_DATA_URL = 'https://petstore.swagger.io/v2/swagger.json';
